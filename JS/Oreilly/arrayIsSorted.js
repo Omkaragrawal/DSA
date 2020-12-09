@@ -92,3 +92,6 @@ console.log(isDescending([42, 39]));
 console.log(isDescending([5, 4, 3, 2, 1]));
 console.groupEnd("True");
 console.groupEnd("isDescending");
+
+// Check Resources
+require('../checkResource')();

@@ -61,3 +61,7 @@ const mineField = [
 ];
 
 console.table(solveMinesweeper(mineField));
+
+
+// Check Resources
+require('../checkResource')();
